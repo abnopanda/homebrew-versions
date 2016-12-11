@@ -1,4 +1,4 @@
-cask 'hazel' do
+cask 'hazel3' do
   version '3.3.7'
   sha256 '2b62354eb885e809ee48aba37de6dd701d4ab22ec4686b66efdc08ac36162efc'
 
